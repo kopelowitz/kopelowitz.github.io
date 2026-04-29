@@ -83,4 +83,4 @@ The linear-regression decomposition **R = α + β·Market + ε** splits a stock'
 - **β** — sensitivity to the market: how much the stock moves with broad market returns.
 - **ε** — the residual: the portion of return not explained by the market.
 
-Idiosyncratic volatility is the standard deviation of **ε** over the lookback window — the part of a stock's return the market can't account for, and the feature I used in the model. over the lookback window — the part of a stock's return the market can't account for, and the feature I used in the model.
+Idiosyncratic volatility is the standard deviation of **ε** over the lookback window — the part of a stock's return the market can't account for, and the feature I used in the model.
