@@ -1,6 +1,6 @@
 ---
 layout: home
-----
+---
 
 Software engineer (VP at JPMorgan Asset Management), CFA charterholder.
 
